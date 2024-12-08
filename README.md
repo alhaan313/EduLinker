@@ -1,4 +1,4 @@
-#### Project Overview
+### Project Overview
 Edu Linker is a Flask-based web application that allows users to search for internship opportunities related to specific topics. It retrieves the top results from Google search, filters out irrelevant links, and displays the top 5 results to the user. Additionally, the app provides a fun fact on the homepage.
 
 #### Features
