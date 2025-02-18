@@ -1,2 +1,5 @@
 # Vritual environment
 venv
+
+# Environmental variables
+.env 
